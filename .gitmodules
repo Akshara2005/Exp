@@ -1,6 +1,3 @@
 [submodule "Akshara"]
 	path = Akshara
 	url = https://github.com/Akshara2005/Akshara.git
-[submodule "subdir"]
-	path = subdir
-	url = ./subdir
